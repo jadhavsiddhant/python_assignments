@@ -6,4 +6,4 @@ def si(principle,time,intreast):
     xi=x/100
     print("simple intrest on the given amount",xi)
 
-si(10000,3,8)
+si(10000,3,9)
